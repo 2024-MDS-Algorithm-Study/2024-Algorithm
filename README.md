@@ -1,2 +1,36 @@
 # 2024-Algorithm
-열씨미 하자!
+
+## 스터디원
+
+<table>
+    <tr>
+        <td height="140px" align="center"> <a href="https://github.com/KodaHye">
+            <img src="https://avatars.githubusercontent.com/KodaHye" width="140px" /> <br> 고다혜 </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/minpaeng">
+            <img src="https://avatars.githubusercontent.com/minpaeng" width="140px" /> <br>권민정 </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/swy0123">
+            <img src="https://avatars.githubusercontent.com/swy0123" width="140px" /> <br> 이시영</a> <br></td>
+    </tr>
+</table>
+
+
+
+## 스터디 규칙
+
+요일 별로 유형을 정해서 한 문제 이상 풀이
+
+* 월요일: DP
+* 화요일: 그래프, 트리, DFS, BFS
+* 수요일: 이분탐색, 투포인터, 슬라이딩 윈도우
+* 목요일: 시뮬레이션, 부르트포스
+* 금요일: 자료구조
+
+
+
+### 진행 현황
+
+| 날짜     | 고다혜 | 권민정 | 이시영 |
+| -------- | ------ | ------ | ------ |
+| 24-01-08 |        |        |        |
+|          |        |        |        |
+
