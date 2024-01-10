@@ -31,8 +31,9 @@
 
 ### 진행 현황
 
-| 날짜     | 고다혜                                                  | 권민정                                                   | 이시영                                                   |
-| -------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| 24-01-08 | [[DP] 이동하기](https://www.acmicpc.net/problem/11048)  | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051) | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051) |
-| 24-01-09 | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589) |  [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)  | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)  |
+| 날짜     | 고다혜                                                       | 권민정                                                   | 이시영                                                   |
+| -------- | ------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------- |
+| 24-01-08 | [[DP] 이동하기](https://www.acmicpc.net/problem/11048)       | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051) | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051) |
+| 24-01-09 | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)  | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)  |
+| 24-01-10 | [[정렬, 값/좌표 압축] 좌표 압축](https://www.acmicpc.net/problem/18870)<br />[[이분 탐색] 수 찾기](https://www.acmicpc.net/problem/1920) |                                                          |                                                          |
 
