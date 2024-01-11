@@ -2,12 +2,12 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.StringTokenizer;
 
 public class Main {
     static int[][] del = {{-1, 0}, {-1, 1}, {0, 1}, {1, 1}, {1, 0}, {1, -1}, {0, -1}, {-1, -1}};
     static List<Node>[][] balls;
     static int N, M, K, res;
+
     static class Node {
         int m;
         int s;
@@ -30,13 +30,9 @@ public class Main {
             balls = tmpBalls;
         }
 
-        for (int i = 1; i <= N; i++) {
-            for (int j =1; j <= N; j++) {
-                for (Node ball : balls[i][j]) {
-                    res += ball.m;
-                }
-            }
-        }
+        for (int i = 1; i <= N; i++)
+            for (int j = 1; j <= N; j++)
+                for (Node ball : balls[i][j]) res += ball.m;
 
         System.out.println(res);
     }
@@ -52,17 +48,10 @@ public class Main {
 
     private static void move(int x, int y, List<Node>[][] tmpBalls) {
         for (Node ball : balls[x][y]) {
-            int nx = x;
-            int ny = y;
-            for (int i = 0; i < ball.s; i++) {
-                nx += del[ball.d][0];
-                if (nx == N + 1) nx = 1;
-                if (nx == 0) nx = N;
-                ny += del[ball.d][1];
-                if (ny == N + 1) ny = 1;
-                if (ny == 0) ny = N;
-            }
-
+            int nx = (x + del[ball.d][0] * ball.s) % N;
+            int ny = (y + del[ball.d][1] * ball.s) % N;
+            if (nx <= 0) nx += N;
+            if (ny <= 0) ny += N;
             tmpBalls[nx][ny].add(new Node(ball.m, ball.s, ball.d));
         }
     }
@@ -89,25 +78,26 @@ public class Main {
         int size = tmpBalls[x][y].size();
         tmpBalls[x][y].clear();
         if (newM == 0) return;
-        if (odd == 0 || odd == size)
-            for (int i = 0; i < 8; i += 2)
-                tmpBalls[x][y].add(new Node(newM, newS, i));
-        else
-            for (int i = 1; i < 8; i += 2)
-                tmpBalls[x][y].add(new Node(newM, newS, i));
+
+        int start = 1;
+        if (odd == 0 || odd == size) start = 0;
+        for (int i = start; i < 8; i += 2) {
+            tmpBalls[x][y].add(new Node(newM, newS, i));
+        }
     }
 
     private static void makeInputs() throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
-        K = Integer.parseInt(st.nextToken());
+        String[] inputs = br.readLine().split(" ");
+        N = Integer.parseInt(inputs[0]);
+        M = Integer.parseInt(inputs[1]);
+        K = Integer.parseInt(inputs[2]);
         balls = setList();
         for (int i = 0; i < M; i++) {
-            String[] inputs = br.readLine().split(" ");
+            inputs = br.readLine().split(" ");
             int a, b;
-            a = Integer.parseInt(inputs[0]); b = Integer.parseInt(inputs[1]);
+            a = Integer.parseInt(inputs[0]);
+            b = Integer.parseInt(inputs[1]);
             balls[a][b].add(new Node(
                     Integer.parseInt(inputs[2]),
                     Integer.parseInt(inputs[3]),
