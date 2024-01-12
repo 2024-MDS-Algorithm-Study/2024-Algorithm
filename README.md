@@ -33,9 +33,9 @@
 
 | 날짜     | 고다혜                                                       | 권민정                                                       | 이시영                                                       |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 24-01-08 | [[DP] 이동하기](https://www.acmicpc.net/problem/11048)       | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051)     | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051)     |
-| 24-01-09 | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      |
-| 24-01-10 | [[정렬, 값/좌표 압축] 좌표 압축](https://www.acmicpc.net/problem/18870)<br />[[이분 탐색] 수 찾기](https://www.acmicpc.net/problem/1920)<br />[[이분 탐색] 공유기 설치](https://www.acmicpc.net/problem/2110) | [[정렬, 값/좌표 압축] 좌표 압축](https://www.acmicpc.net/problem/18870) | [[이분 탐색] 공유기 설치](https://www.acmicpc.net/problem/2110) |
-| 24-01-11 | [[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [[브루트포스] 외판원 순회 2](https://www.acmicpc.net/problem/10971)<br />[[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [[브루트포스] 외판원 순회 2](https://www.acmicpc.net/problem/10971)<br />[[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
-| 24-01-12 |                                                              |                                                              | [[자료구조] AC](https://www.acmicpc.net/problem/5430)     |
+| 24.01.08 | [[DP] 이동하기](https://www.acmicpc.net/problem/11048)       | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051)     | [[DP] 이항계수 2](https://www.acmicpc.net/problem/11051)     |
+| 24.01.09 | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      | [[그래프] 보물섬](https://www.acmicpc.net/problem/2589)      |
+| 24.01.10 | [[정렬, 값/좌표 압축] 좌표 압축](https://www.acmicpc.net/problem/18870)<br />[[이분 탐색] 수 찾기](https://www.acmicpc.net/problem/1920)<br />[[이분 탐색] 공유기 설치](https://www.acmicpc.net/problem/2110) | [[정렬, 값/좌표 압축] 좌표 압축](https://www.acmicpc.net/problem/18870) | [[이분 탐색] 공유기 설치](https://www.acmicpc.net/problem/2110) |
+| 24.01.11 | [[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [[브루트포스] 외판원 순회 2](https://www.acmicpc.net/problem/10971)<br />[[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [[브루트포스] 외판원 순회 2](https://www.acmicpc.net/problem/10971)<br />[[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
+| 24.01.12 | [[자료구조] AC](https://www.acmicpc.net/problem/5430)        |                                                              | [[자료구조] AC](https://www.acmicpc.net/problem/5430)        |
 
