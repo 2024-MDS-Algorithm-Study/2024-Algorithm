@@ -39,5 +39,5 @@
 | 24.01.11 | [[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [[브루트포스] 외판원 순회 2](https://www.acmicpc.net/problem/10971)<br />[[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | [[브루트포스] 외판원 순회 2](https://www.acmicpc.net/problem/10971)<br />[[시뮬레이션] 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
 | 24.01.12 | [[자료구조] AC](https://www.acmicpc.net/problem/5430)        | [[자료구조] AC](https://www.acmicpc.net/problem/5430)        | [[자료구조] AC](https://www.acmicpc.net/problem/5430)        |
 | 24.01.15 | [[DP] 동전 1](https://www.acmicpc.net/problem/2293)          | [[DP] 01타일](https://www.acmicpc.net/problem/1904)<br />[[DP] 동전 1](https://www.acmicpc.net/problem/2293) | [[DP] 01타일](https://www.acmicpc.net/problem/1904)<br />[[DP] 호텔](https://www.acmicpc.net/problem/1106) |
-| 24.01.16 | [[트리] 트리](https://www.acmicpc.net/problem/4803)          |                                                              | [[트리] 트리](https://www.acmicpc.net/problem/4803)          |
+| 24.01.16 | [[트리] 트리](https://www.acmicpc.net/problem/4803)          | [[트리] 트리](https://www.acmicpc.net/problem/4803)          | [[트리] 트리](https://www.acmicpc.net/problem/4803)          |
 
