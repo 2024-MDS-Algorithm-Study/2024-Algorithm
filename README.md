@@ -42,4 +42,4 @@
 | 24.01.16 | [[트리] 트리](https://www.acmicpc.net/problem/4803)          | [[트리] 트리](https://www.acmicpc.net/problem/4803)          | [[트리] 트리](https://www.acmicpc.net/problem/4803)          |
 | 24.01.17 | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565)<br />[[이분 탐색] 두 수의 합](https://www.acmicpc.net/problem/9024) |                                                              | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565) |
 | 24.01.18 |                                                              |                                                              | [[부르트포스] 차이를 최대](https://www.acmicpc.net/problem/10819) |
-| 24.01.19 |                                                              | [[자료구조] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) |                                                          |
+| 24.01.19 | [[자료구조] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [[자료구조] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) |                                                              |
