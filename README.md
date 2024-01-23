@@ -43,6 +43,6 @@
 | 24.01.17 | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565)<br />[[이분 탐색] 두 수의 합](https://www.acmicpc.net/problem/9024) |                                                              | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565) |
 | 24.01.18 |                                                              |                                                              | [[부르트포스] 차이를 최대](https://www.acmicpc.net/problem/10819)<br />[[시뮬레이션] 청소년 상어](https://www.acmicpc.net/problem/19236) |
 | 24.01.19 | [[자료구조] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [[자료구조] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [[자료구조] 이중 우선순위 큐](https://www.acmicpc.net/problem/7662) |
-| 24.01.22 | [[DP] 조합](https://www.acmicpc.net/problem/2407)<br />[[DP] 동전 2](https://www.acmicpc.net/problem/2294) | [[DP] 호텔](https://www.acmicpc.net/problem/1106)       | [[DP] 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
-| 24.01.23 |                                                              | [[그래프] 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |                                                              |
+| 24.01.22 | [[DP] 조합](https://www.acmicpc.net/problem/2407)<br />[[DP] 동전 2](https://www.acmicpc.net/problem/2294) | [[DP] 호텔](https://www.acmicpc.net/problem/1106)            | [[DP] 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
+| 24.01.23 | [[그래프] 숫자고르기](https://www.acmicpc.net/problem/2668)  | [[그래프] 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |                                                              |
 
