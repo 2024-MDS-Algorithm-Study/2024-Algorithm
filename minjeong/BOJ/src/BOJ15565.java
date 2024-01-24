@@ -19,15 +19,13 @@ public class Main {
 
         int start = 0, end = 0, cnt = 0;
         if (arr[end] == 1) cnt++;
-        while (start <= end && start < n && end < n) {
+        while (start <= end && end < n) {
             if (cnt < k) {
-                end++;
-                if (end < n && arr[end] == 1) cnt++;
+                if (++end < n && arr[end] == 1) cnt++;
             }
             else {
                 if (cnt == k) res = Math.min(res, end - start + 1);
-                if (arr[start] == 1) cnt--;
-                start++;
+                if (arr[start++] == 1) cnt--;
             }
         }
 
