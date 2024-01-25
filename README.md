@@ -46,5 +46,5 @@
 | 24.01.22 | [[DP] 조합](https://www.acmicpc.net/problem/2407)<br />[[DP] 동전 2](https://www.acmicpc.net/problem/2294) | [[DP] 호텔](https://www.acmicpc.net/problem/1106)            | [[DP] 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) |
 | 24.01.23 | [[그래프] 숫자고르기](https://www.acmicpc.net/problem/2668)<br />[[그래프] 일루미네이션](https://www.acmicpc.net/problem/5547) | [[그래프] 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | [[그래프] 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |
 | 24.01.24 | [[투포인터] 좋다](https://www.acmicpc.net/problem/1253)<br />[[투포인터] 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565) | [[투포인터] 두 배열의 ](https://www.acmicpc.net/problem/2143) |
-| 24.01.25 |  |  | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
+| 24.01.25 | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |                                                              | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
 
