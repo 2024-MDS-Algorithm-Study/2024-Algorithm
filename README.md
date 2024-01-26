@@ -47,5 +47,5 @@
 | 24.01.23 | [[그래프] 숫자고르기](https://www.acmicpc.net/problem/2668)<br />[[그래프] 일루미네이션](https://www.acmicpc.net/problem/5547) | [[그래프] 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | [[그래프] 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |
 | 24.01.24 | [[투포인터] 좋다](https://www.acmicpc.net/problem/1253)<br />[[투포인터] 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565) | [[투포인터] 두 배열의 합](https://www.acmicpc.net/problem/2143) |
 | 24.01.25 | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |                                                              | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
-| 24.01.26 |  |                                                              | [[자료구조] 풍선 터뜨리](https://www.acmicpc.net/problem/2346)<br />[[자료구조] 카드 정렬하](https://www.acmicpc.net/problem/1715) |
+| 24.01.26 |  |                                                              | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)<br />[[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
 
