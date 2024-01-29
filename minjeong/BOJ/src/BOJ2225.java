@@ -20,7 +20,6 @@ public class Main {
                 dp[i][j] = (dp[i - 1][j] + dp[i][j - 1]) % 1000000000;
             }
         }
-
         System.out.println(dp[k][n]);
     }
 }
