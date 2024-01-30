@@ -49,6 +49,6 @@
 | 24.01.25 | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |                                                              | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
 | 24.01.26 | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [[자료구조] 후위 표기식](https://www.acmicpc.net/problem/1918) | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)<br />[[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
 | 24.01.29 | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225) | [[DP] 합분해](https://www.acmicpc.net/problem/2225)                                                             |
-| 24.01.30 |           |  | [[그래프] 불](https://www.acmicpc.net/problem/5427)                                                             |
+| 24.01.30 |           | [[그래프] 불](https://www.acmicpc.net/problem/5427) | [[그래프] 불](https://www.acmicpc.net/problem/5427)                                                             |
 
 
