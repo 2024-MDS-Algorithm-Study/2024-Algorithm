@@ -48,7 +48,6 @@
 | 24.01.24 | [[투포인터] 좋다](https://www.acmicpc.net/problem/1253)<br />[[투포인터] 겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [[투포인터] 귀여운 라이언](https://www.acmicpc.net/problem/15565) | [[투포인터] 두 배열의 합](https://www.acmicpc.net/problem/2143) |
 | 24.01.25 | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |                                                              | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
 | 24.01.26 | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [[자료구조] 후위 표기식](https://www.acmicpc.net/problem/1918) | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)<br />[[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
-| 24.01.29 | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225) | [[DP] 합분해](https://www.acmicpc.net/problem/2225)                                                             |
-| 24.01.30 |           | [[그래프] 불](https://www.acmicpc.net/problem/5427) | [[그래프] 불](https://www.acmicpc.net/problem/5427)                                                             |
-
+| 24.01.29 | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          |
+| 24.01.30 | [[그래프] 떡장수와 호랑이](https://www.acmicpc.net/problem/16432) | [[그래프] 불](https://www.acmicpc.net/problem/5427)          | [[그래프] 불](https://www.acmicpc.net/problem/5427)          |
 
