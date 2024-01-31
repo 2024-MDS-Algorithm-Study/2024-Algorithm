@@ -50,4 +50,4 @@
 | 24.01.26 | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [[자료구조] 후위 표기식](https://www.acmicpc.net/problem/1918) | [[자료구조] 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)<br />[[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |
 | 24.01.29 | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          |
 | 24.01.30 | [[그래프] 떡장수와 호랑이](https://www.acmicpc.net/problem/16432) | [[그래프] 불](https://www.acmicpc.net/problem/5427)          | [[그래프] 불](https://www.acmicpc.net/problem/5427)          |
-| 24.01.31 |   | [[투포인터] 고냥이](https://www.acmicpc.net/problem/16472)          |   |
+| 24.01.31 |   | [[투포인터] 고냥이](https://www.acmicpc.net/problem/16472)          | [[투포인터] 고냥이](https://www.acmicpc.net/problem/16472)<br />[[투포인터] 부분](https://www.acmicpc.net/problem/1806)  |
