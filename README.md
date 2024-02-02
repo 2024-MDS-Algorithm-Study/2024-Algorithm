@@ -51,5 +51,5 @@
 | 24.01.29 | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          | [[DP] 합분해](https://www.acmicpc.net/problem/2225)          |
 | 24.01.30 | [[그래프] 떡장수와 호랑이](https://www.acmicpc.net/problem/16432) | [[그래프] 불](https://www.acmicpc.net/problem/5427)          | [[그래프] 불](https://www.acmicpc.net/problem/5427)          |
 | 24.01.31 | [[투포인터] 고냥이](https://www.acmicpc.net/problem/16472)   | [[투포인터] 고냥이](https://www.acmicpc.net/problem/16472)   | [[투포인터] 고냥이](https://www.acmicpc.net/problem/16472)<br />[[투포인터] 부분](https://www.acmicpc.net/problem/1806) |
-| 24.02.01 | [[구현] 스타트링크 타워](https://www.acmicpc.net/problem/1089) | [[시뮬레이션] 치즈](https://www.acmicpc.net/problem/2636) |                                                              |
-| 24.02.02 |  | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) |                                                              |
+| 24.02.01 | [[구현] 스타트링크 타워](https://www.acmicpc.net/problem/1089) | [[시뮬레이션] 치즈](https://www.acmicpc.net/problem/2636)    |                                                              |
+| 24.02.02 | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) |                                                              |
