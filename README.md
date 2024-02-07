@@ -54,4 +54,6 @@
 | 24.02.01 | [[구현] 스타트링크 타워](https://www.acmicpc.net/problem/1089) | [[시뮬레이션] 치즈](https://www.acmicpc.net/problem/2636)    | [[구현] 스타트링크 타워](https://www.acmicpc.net/problem/1089)<br />[[시뮬레이션] 치즈](https://www.acmicpc.net/problem/2636) |
 | 24.02.02 | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
 | 24.02.05 | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
-| 24.02.06 | [[그래프] 직사각형 탈출](https://www.acmicpc.net/problem/16973) |                                                              |                                                              |
+| 24.02.06 | [[그래프] 직사각형 탈출](https://www.acmicpc.net/problem/16973)<br />[[그래프] 모양 만들기](https://www.acmicpc.net/problem/16932) |                                                              |                                                              |
+| 24.02.07 | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) |                                                              |                                                              |
+
