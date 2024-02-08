@@ -56,4 +56,4 @@
 | 24.02.05 | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
 | 24.02.06 | [[그래프] 직사각형 탈출](https://www.acmicpc.net/problem/16973)<br />[[그래프] 모양 만들기](https://www.acmicpc.net/problem/16932) | [[백트래킹] 로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |                                                              |
 | 24.02.07 | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) | [[이분 탐색] 누가 이길까](https://www.acmicpc.net/problem/28449)<br/>[[이분 탐색] IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |                                                              |
-
+| 24.02.08 | | [[시뮬레이션] 청소년 상어](https://www.acmicpc.net/problem/19236) |                                                              |
