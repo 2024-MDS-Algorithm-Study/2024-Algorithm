@@ -55,5 +55,6 @@
 | 24.02.02 | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) | [[자료구조] 전화번호 목록](https://www.acmicpc.net/problem/5052)<br />[[자료구조] 가운데를 말해요](https://www.acmicpc.net/problem/1655) |
 | 24.02.05 | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [[DP] 공통 부분 문자열](https://www.acmicpc.net/problem/5582) |
 | 24.02.06 | [[그래프] 직사각형 탈출](https://www.acmicpc.net/problem/16973)<br />[[그래프] 모양 만들기](https://www.acmicpc.net/problem/16932) | [[백트래킹] 로마 숫자 만들기](https://www.acmicpc.net/problem/16922) |                                                              |
-| 24.02.07 | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) | [[이분 탐색] 누가 이길까](https://www.acmicpc.net/problem/28449)<br/>[[이분 탐색] IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |                                                              |
-| 24.02.08 | | [[시뮬레이션] 청소년 상어](https://www.acmicpc.net/problem/19236) |                                                              |
+| 24.02.07 | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663)<br />[[구현] 배열 돌리기 3](https://www.acmicpc.net/problem/16935)<br />[[구현] 장군](https://www.acmicpc.net/problem/16509) | [[이분 탐색] 누가 이길까](https://www.acmicpc.net/problem/28449)<br/>[[이분 탐색] IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) |                                                              |
+| 24.02.08 | [[구현] 미친 아두이노](https://www.acmicpc.net/problem/8972) | [[시뮬레이션] 청소년 상어](https://www.acmicpc.net/problem/19236) |                                                              |
+
