@@ -59,5 +59,5 @@
 | 24.02.08 | [[구현] 미친 아두이노](https://www.acmicpc.net/problem/8972) | [[시뮬레이션] 청소년 상어](https://www.acmicpc.net/problem/19236) | [[구현] 미친 아두이노](https://www.acmicpc.net/problem/8972) |
 | 24.02.09 |  | [[자료구조] N차원 여행](https://www.acmicpc.net/problem/12867) | [[자료구조] N차원 여행](https://www.acmicpc.net/problem/12867) |
 | 24.02.13 |  | [[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466) |  |
-| 24.02.13 |  | |  |
+| 24.02.14 |  | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) |  |
 
