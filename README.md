@@ -60,4 +60,4 @@
 | 24.02.09 |                                                              | [[자료구조] N차원 여행](https://www.acmicpc.net/problem/12867) | [[자료구조] N차원 여행](https://www.acmicpc.net/problem/12867) |
 | 24.02.13 | [[그래프] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)<br />[[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466)<br /> | [[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466) | [[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466) |
 | 24.02.14 | [[이분 탐색] 소수의 연속합](https://www.acmicpc.net/problem/1644) | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) | [[이분 탐색] 소수의 연속합](https://www.acmicpc.net/problem/1644) |
-| 24.02.15 | [[구현] 원판 돌리기](https://www.acmicpc.net/problem/17822)  |                                                              | [[시뮬레이션] 스도쿠](https://www.acmicpc.net/problem/2239) |
+| 24.02.15 | [[구현] 원판 돌리기](https://www.acmicpc.net/problem/17822)  | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922) | [[시뮬레이션] 스도쿠](https://www.acmicpc.net/problem/2239) |
