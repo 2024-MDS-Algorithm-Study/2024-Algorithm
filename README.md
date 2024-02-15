@@ -58,6 +58,6 @@
 | 24.02.07 | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663)<br />[[구현] 배열 돌리기 3](https://www.acmicpc.net/problem/16935)<br />[[구현] 장군](https://www.acmicpc.net/problem/16509) | [[이분 탐색] 누가 이길까](https://www.acmicpc.net/problem/28449)<br/>[[이분 탐색] IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637) | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) |
 | 24.02.08 | [[구현] 미친 아두이노](https://www.acmicpc.net/problem/8972) | [[시뮬레이션] 청소년 상어](https://www.acmicpc.net/problem/19236) | [[구현] 미친 아두이노](https://www.acmicpc.net/problem/8972) |
 | 24.02.09 |                                                              | [[자료구조] N차원 여행](https://www.acmicpc.net/problem/12867) | [[자료구조] N차원 여행](https://www.acmicpc.net/problem/12867) |
-| 24.02.13 | [[그래프] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)<br />[[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466)<br /> | [[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466) |                                                              |
-| 24.02.14 | [[이분 탐색] 소수의 연속합](https://www.acmicpc.net/problem/1644) | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) |                                                              |
-
+| 24.02.13 | [[그래프] 피리 부는 사나이](https://www.acmicpc.net/problem/16724)<br />[[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466)<br /> | [[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466) | [[그래프] 텀 프로젝트](https://www.acmicpc.net/problem/9466) |
+| 24.02.14 | [[이분 탐색] 소수의 연속합](https://www.acmicpc.net/problem/1644) | [[이분 탐색] 선분 위의 점](https://www.acmicpc.net/problem/11663) | [[이분 탐색] 소수의 연속합](https://www.acmicpc.net/problem/1644) |
+| 24.02.15 |  |  | [[시뮬레이션] 소도쿠](https://www.acmicpc.net/problem/2239) |
