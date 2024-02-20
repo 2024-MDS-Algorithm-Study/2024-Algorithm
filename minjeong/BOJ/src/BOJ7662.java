@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class Main {
+public class BOJ7662 {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

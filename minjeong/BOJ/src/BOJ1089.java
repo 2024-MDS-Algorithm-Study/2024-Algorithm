@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main {
+public class BOJ1089 {
     static String[] nums = {"####.##.##.####", "..#..#..#..#..#", "###..#####..###", "###..####..####", "#.##.####..#..#",
             "####..###..####", "####..####.####", "###..#..#..#..#", "####.#####.####", "####.####..####"};
     static char[][] signal;

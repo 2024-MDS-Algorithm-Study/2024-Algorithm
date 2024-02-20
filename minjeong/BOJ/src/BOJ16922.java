@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main {
+public class BOJ16922 {
     private static int[] nums = {1, 5, 10, 50};
 
     public static void main(String[] args) throws Exception {

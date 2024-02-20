@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class BOJ5052 {
     private static class Node {
         Map<Character, Node> child = new HashMap<>();
         boolean isEnd;

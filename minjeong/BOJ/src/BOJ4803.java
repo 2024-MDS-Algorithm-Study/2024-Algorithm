@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class BOJ4803 {
     private static List<Integer>[] graph;
     private static boolean[] v;
     private static int cnt;

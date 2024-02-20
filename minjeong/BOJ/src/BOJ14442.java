@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ14442 {
     private static final int[][] del = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
     private static class Node {
         int x;

@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ5427 {
     private static final int[][] del = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
     private static class Node {

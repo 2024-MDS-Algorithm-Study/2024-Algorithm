@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ15565 {
 
     public static void main(String[] args) throws Exception {
         int res = Integer.MAX_VALUE;

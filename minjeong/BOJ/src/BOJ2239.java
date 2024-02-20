@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class BOJ2239 {
     static int[][] board = new int[9][9];
     static List<Node> list = new ArrayList<>();
     static class Node {

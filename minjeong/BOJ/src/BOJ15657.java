@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.*;
 
-public class Main {
+public class BOJ15657 {
     static int n, m, arr[];
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 

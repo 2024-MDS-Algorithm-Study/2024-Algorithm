@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
-public class Main {
+public class BOJ1106 {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

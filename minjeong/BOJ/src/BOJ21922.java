@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ21922 {
     static int[][] del = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
     static class Node {
         int x;

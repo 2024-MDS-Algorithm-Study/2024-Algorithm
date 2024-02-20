@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ10971 {
     static int res = Integer.MAX_VALUE, n;
     static int[][] map;
 
