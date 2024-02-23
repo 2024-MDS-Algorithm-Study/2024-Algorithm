@@ -66,5 +66,5 @@
 | 24.02.20 | [[그래프] 열쇠](https://www.acmicpc.net/problem/9328)        | [[그래프] 모양 만들기](https://www.acmicpc.net/problem/16932)<br /> [[자료구조] 오큰수](https://www.acmicpc.net/source/73691120) |                                                              |
 | 24.02.21 | [[이분 탐색] 기타 레슨](https://www.acmicpc.net/problem/2343) |                                                              |                                                              |
 | 24.02.22 | [[구현] 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | [[구현] 철사 자르기](https://www.acmicpc.net/problem/2459)   |                                                              |
-| 24.02.23 | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |                                                              |                                                              |
+| 24.02.23 | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |                                                              |
 
