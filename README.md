@@ -63,8 +63,8 @@
 | 24.02.15 | [[구현] 원판 돌리기](https://www.acmicpc.net/problem/17822)<br />[[그래프] 확장 게임](https://www.acmicpc.net/problem/16920) | [[시뮬레이션] 학부 연구생 민상](https://www.acmicpc.net/problem/21922)<br /> [[시뮬레이션] 스도쿠](https://www.acmicpc.net/problem/2239)<br /> [[이분 탐색] 두 수의 합](https://www.acmicpc.net/problem/9024)<br /> [[구현] 스타트링크 타워](https://www.acmicpc.net/problem/1089) | [[시뮬레이션] 스도쿠](https://www.acmicpc.net/problem/2239)  |
 | 24.02.16 | [[자료구조] 압축](https://www.acmicpc.net/problem/1662)<br />[[그래프] 불켜기](https://www.acmicpc.net/problem/11967) |                                                              |                                                              |
 | 24.02.19 | [[dp] 팰린드롬?](https://www.acmicpc.net/problem/10942)      | [[dp] 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | [[dp] LCS 2](https://www.acmicpc.net/problem/9252)           |
-| 24.02.20 | [[그래프] 열쇠](https://www.acmicpc.net/problem/9328)        | [[그래프] 모양 만들기](https://www.acmicpc.net/problem/16932)<br /> [[자료구조] 오큰수](https://www.acmicpc.net/source/73691120) |                                                              |
+| 24.02.20 | [[그래프] 열쇠](https://www.acmicpc.net/problem/9328)        | [[그래프] 모양 만들기](https://www.acmicpc.net/problem/16932)<br /> [[자료구조] 오큰수](https://www.acmicpc.net/source/73691120) | [[그래프] 나이트의 이동](https://www.acmicpc.net/problem/7562) |
 | 24.02.21 | [[이분 탐색] 기타 레슨](https://www.acmicpc.net/problem/2343) |                                                              |                                                              |
-| 24.02.22 | [[구현] 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | [[구현] 철사 자르기](https://www.acmicpc.net/problem/2459)   |                                                              |
-| 24.02.23 | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |                                                              |
+| 24.02.22 | [[구현] 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | [[구현] 철사 자르기](https://www.acmicpc.net/problem/2459)   | [[구현] 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) |
+| 24.02.23 | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |  [[자료구조] 오큰수](https://www.acmicpc.net/problem/17298) |
 
