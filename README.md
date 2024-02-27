@@ -68,4 +68,5 @@
 | 24.02.22 | [[구현] 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | [[구현] 철사 자르기](https://www.acmicpc.net/problem/2459)   | [[구현] 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) |
 | 24.02.23 | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |  [[자료구조] 오큰수](https://www.acmicpc.net/problem/17298) |
 | 24.02.26 | | [[dp] 동전](https://www.acmicpc.net/problem/9084) |  |
+| 24.02.27 | | [[구현] 원판 돌리기](https://www.acmicpc.net/problem/17822) |  |
 
