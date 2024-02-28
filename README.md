@@ -69,4 +69,4 @@
 | 24.02.23 | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) | [[자료구조] 카드 정렬하기](https://www.acmicpc.net/problem/1715) |  [[자료구조] 오큰수](https://www.acmicpc.net/problem/17298) |
 | 24.02.26 | | [[dp] 동전](https://www.acmicpc.net/problem/9084) |  |
 | 24.02.27 | | [[구현] 원판 돌리기](https://www.acmicpc.net/problem/17822) |  |
-
+| 24.02.28 | | [[투포인터] 세 용액](https://www.acmicpc.net/problem/2473) |  |
