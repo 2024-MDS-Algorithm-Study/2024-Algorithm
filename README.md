@@ -70,4 +70,4 @@
 | 24.02.26 | | [[dp] 동전](https://www.acmicpc.net/problem/9084) |  |
 | 24.02.27 | | [[구현] 원판 돌리기](https://www.acmicpc.net/problem/17822) |  |
 | 24.02.28 | | [[투포인터] 세 용액](https://www.acmicpc.net/problem/2473) |  |
-| 24.02.29 | | [[부르트포스] 영화감독 숍](https://www.acmicpc.net/problem/1436) |  |
+| 24.02.29 | | [[부르트포스] 영화감독 숌](https://www.acmicpc.net/problem/1436) |  |
