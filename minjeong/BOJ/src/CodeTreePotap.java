@@ -62,14 +62,6 @@ public class CodeTreePotap {
         public int sum() {
             return x + y;
         }
-
-        @Override
-        public String toString() {
-            return "Node{" +
-                    "x=" + x +
-                    ", y=" + y +
-                    '}';
-        }
     }
 
     public static void main(String[] args) throws Exception {
@@ -124,10 +116,10 @@ public class CodeTreePotap {
     }
 
     private static boolean attactorContidions(int min, int x, int y, Node attactor) {
-        return min > map[x][y]
-                || (min == map[x][y] && times[x][y] > times[attactor.x][attactor.y])
-                || (min == map[x][y] && times[x][y] == times[attactor.x][attactor.y] && x + y > attactor.sum())
-                || (min == map[x][y] && times[x][y] == times[attactor.x][attactor.y] && x + y == attactor.sum() && y > attactor.y);
+        if (min != map[x][y]) return min > map[x][y];
+        if (times[x][y] != times[attactor.x][attactor.y]) return times[x][y] > times[attactor.x][attactor.y];
+        if (x + y != attactor.sum()) return x + y > attactor.sum();
+        return y > attactor.y;
     }
 
     private static Node findAttactee() {
@@ -147,10 +139,10 @@ public class CodeTreePotap {
     }
 
     private static boolean attacteeContidions(int max, int x, int y, Node attactee) {
-        return max < map[x][y]
-                || (max == map[x][y] && times[x][y] < times[attactee.x][attactee.y])
-                || (max == map[x][y] && times[x][y] == times[attactee.x][attactee.y] && x + y < attactee.sum())
-                || (max == map[x][y] && times[x][y] == times[attactee.x][attactee.y] && x + y == attactee.sum() && y < attactee.y);
+        if (max != map[x][y]) return max < map[x][y];
+        if (times[x][y] != times[attactee.x][attactee.y]) return times[x][y] < times[attactee.x][attactee.y];
+        if (x + y != attactee.sum()) return x + y < attactee.sum();
+        return y < attactee.y;
     }
 
     private static void attact(int attactValue, List<Node> attactees) {
@@ -190,15 +182,5 @@ public class CodeTreePotap {
             }
         }
         System.out.println(res);
-    }
-
-    private static void printMap() {
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                System.out.print(map[i][j] + " ");
-            }
-            System.out.println();
-        }
-        System.out.println("=============================");
     }
 }
